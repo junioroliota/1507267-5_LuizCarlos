@@ -1,7 +1,15 @@
 # 1507267-5_LuizCarlos
 
-Exercício Mapa, Aula de Back End 1
+Identificação:
+Aluno: Luiz Carlos Oliota Junior
+RA:    1507267-5
+CURSO: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 
+Quem sou:
+Sou estudando de Sistemas para Internet cursando a Disciplina de Back End 1.
+Essa é minha primeira pagina utilizando HTML e PHP e tambem a primeira vez utilizando Guithub.
+
+Sobre este projeto:
 Trabalho de aula para disciplina Back End 1.
 Foi feito uma pagina de forma bem simples para
 demonstrar alguns produtos fictícios.
