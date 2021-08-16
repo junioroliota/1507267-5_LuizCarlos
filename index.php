@@ -44,13 +44,13 @@
                   <div class="column is-2">
                       <figure class="image is-148x148">
                         <header>
-                          <img class="is-rounded" src="<?php echo $valor; ?>" >
+                          <a href="<?php echo $indice; ?>" > <img class="is-rounded" src="<?php echo $valor; ?>" >
                         </header>
                       </figure>
                   </div>
                   <div class="column is-8">
-                    <p class="title is-4" <span class="tag is-dark"><?php echo $indice; ?> </span></p>
-                    <p> Deliciosa Trufa Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, nisi. Nam magni, impedit, accusamus quisquam nulla fugit quaerat laudantium est qui odio aut iure soluta dolores architecto magnam corrupti corporis?</p>
+                    <p class="title is-4" <span class="tag is-dark"><?php echo $sabor[$indice]; ?> </span></p>
+                    <p> Deliciosa <?php echo $sabor[$indice]; ?> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ipsam voluptatum ratione. Click e Veja mais...</p>
                   </div>                                            
                     
                 </div>
